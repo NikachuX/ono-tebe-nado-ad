@@ -32,9 +32,8 @@
     justify-self: end;
 }
 
-.header__links-list-item_no-bullit { 
+.header__links-list-item_no-bullit {
     list-style: none;
-
 }
 
 .header__link_active {
