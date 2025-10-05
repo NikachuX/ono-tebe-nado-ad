@@ -14,7 +14,7 @@
 .header__links-list {
     display: flex;
     list-style: circle;
-    justify-content: space-around;
+    justify-content: space-between;
 } 
 
 .header__logo {
